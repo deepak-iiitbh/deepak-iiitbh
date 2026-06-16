@@ -81,10 +81,12 @@
 
 ###
 
+<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepak-iiitbh/deepak-iiitbh/pacman-output/breakout-contribution-graph.svg">
 </picture>
 
 ###
